@@ -1,0 +1,7 @@
+Exercise 3
+
+1. Create an array of cars objects (use an array literal with object literals) in the Car Tool component.
+
+2. Populate the table with the array of car objects.
+
+3. Ensure it all works.

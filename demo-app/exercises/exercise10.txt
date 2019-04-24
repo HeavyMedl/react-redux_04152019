@@ -1,0 +1,7 @@
+Exercise 10
+
+1. Create a new component named CalcTool in the index.js file. Build the component according to the picture on the whiteboard. Keep everything in the one file.
+
+2. Use Redux to manage the state of the component. Be sure to dispatch action to perform the calculations.
+
+3. Ensure it works.

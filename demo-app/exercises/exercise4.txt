@@ -1,0 +1,13 @@
+Exercise 4
+
+GitLab URL: https://gitlab.com/t4d-classes/react-redux_04152019
+
+1. Solve world hunger.
+
+2. Solve world peace.
+
+3. Save the Notre Dame.
+
+4. Implement the Car Form in Car Tool. Collect the car data but do nothing with it.
+
+5. Ensure it works.

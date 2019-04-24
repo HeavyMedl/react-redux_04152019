@@ -1,0 +1,21 @@
+Exercise 5
+
+GitLab URL: https://gitlab.com/t4d-classes/react-redux_04152019
+
+1. Utilize ToolHeader in Car Tool.
+
+2. Create a new component named Car Table. The Car Table will receive an array of cars and display a table of cars. Use the same table code from Car Tool.
+
+3. Replace the car table code in Car Tool with the new Car Table component.
+
+4. Create a new component named Car View Row. The Car View Row will receive a car and display a table row of car data.
+
+Pay close attention to the name of the Car View Row component. It is singular not plural.
+
+5. Utilize Car View Row compomnent in Car Table component to display the car data.
+
+6. Ensure everything works.
+
+Bonus:
+
+Move the list of colors to its own component and utilize the new component in the Color Tool.

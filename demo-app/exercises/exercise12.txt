@@ -1,0 +1,11 @@
+Exercise 12.
+
+0. Be sure to switch index.js files. Change index.js to calc_index.js. And tool_index.js to index.js.
+
+1. Upgrade Color Tool to use Redux. This includes creating the actions, the reducer and the store and connecting to Color Tool.
+
+2. If you finishing before 4:15pm, add a Delete button to each item in the Color Tool list. And implement the delete functionality as appropriate in Redux.
+
+3. If it 4:30pm and you are not done, you have homework with love. :)
+
+4. Ensure it works.

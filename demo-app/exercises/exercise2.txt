@@ -1,0 +1,7 @@
+Exercise 2
+
+GitLab URL: https://gitlab.com/t4d-classes/react-redux_04152019
+
+1. Display a table of cars in Car Tool component using the table and related-table tags. The first should be column headers. The following columns should be displayed: Id, Make, Model, Year, Color, Price. Add two rows of car data. Not one row. Not three rows. Two rows. This is a static.
+
+2. Ensure it loads and displays the cars.

@@ -1,0 +1,13 @@
+Exercise 1
+
+GitLab URL: https://gitlab.com/t4d-classes/react-redux_04152019
+
+1. Create a new component named car tool in the components folder.
+
+Display a header element with an h1 element and the words 'Car Tool' as the content.
+
+2. Import the new car tool component into index.js.
+
+3. Display the car tool component beneath the hello world component. Ensure both are displayed at the same time.
+
+4. Ensure it works.

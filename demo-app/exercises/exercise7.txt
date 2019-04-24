@@ -1,0 +1,11 @@
+Exercise 7
+
+1. Add a new column to the Car Table named Action.
+
+2. In the Car View Row component, add a new column after price which contains a button with a label of 'Delete'.
+
+3. When the Delete button is clicked, the car is removed from the array of cars in Car Tool.
+
+Use the array filter function to perform the delete.
+
+4. Ensure everything works.

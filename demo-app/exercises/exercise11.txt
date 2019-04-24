@@ -1,0 +1,15 @@
+Exercise 11
+
+1. Move the CalcTool to its own file and use in the calc tool application.
+
+2. Create a new component named Unordered List. It simply receives a list of string and display each as a list item.
+
+3. Utilize the Unordered List component in Calc Tool component to display a history of calculations. For each history entry display the operation type and the operation value.
+
+4. Ensure it works.
+
+Exercise 11b
+
+1. Add a new button to the CalcTool component which say "Clear". When the button is clicked reset the result to 0 and erase the history.
+
+2. Ensure it works.
